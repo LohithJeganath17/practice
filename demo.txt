@@ -1,2 +1,2 @@
 Hello, this is the demo file.
-I've added this file to staging area but yet to commit
+I've added this file to staging area but yet to commit. made changes and goin to commit.
