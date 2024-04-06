@@ -1,8 +1,6 @@
 Hello, this is the demo file.
 I've added this file to staging area but yet to commit. made changes and goin to commit.
-
 adding this line in first_branch
-
 Checking for new branch drawing in master branch
-
 lets make a last commit before merging
+
